@@ -1,3 +1,3 @@
 # Conway-game-life
 
-![](conway-game.jpg?raw=true)
+![](conway-game.PNG?raw=true)
